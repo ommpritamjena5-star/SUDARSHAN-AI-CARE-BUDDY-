@@ -1,5 +1,7 @@
 # 🌟 SUDARSHAN AI-CARE-BUDDY
 
+**Live Website:** [sudarshan-ai-care-buddy.vercel.app](https://sudarshan-ai-care-buddy.vercel.app/)
+
 SUDARSHAN AI-CARE-BUDDY is a highly specialized, Full-Stack Disaster Management and Personal Healthcare ecosystem aimed at revolutionizing emergency preparedness and rapid response for the Indian demographic.
 
 This platform empowers individuals securely store vital medical information seamlessly navigate major natural disasters via Artificial Intelligence and trigger instantaneous S.O.S calls when disaster strikes—saving lives through rapid technological intervention.
